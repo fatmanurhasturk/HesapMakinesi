@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\Acer\Desktop\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.hesapmakinesi.resources
